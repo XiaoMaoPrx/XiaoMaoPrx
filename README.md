@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋Hi there
+### Who am I
+I am XiaoMaoPrx , a programming amateur
+### My projects
+- **✈️XiaoMaoChat** - [Check it out](https://rlmk.cc) (❤️‍🩹Work in Progress)
+- **👾XiaoMaoFarRemoteShell**
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoMaoPrx&repo=XiaoM-FRS&theme=transparent)](https://github.com/XiaoMaoPrx/XiaoM-FRS)
 
-<!--
-**XiaoMaoPrx/XiaoMaoPrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **☁️NetEaseCloudMusicApi**
 
-Here are some ideas to get you started:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoMaoPrx&repo=NetEase-Cloud-Music-Api&theme=transparent)](https://github.com/XiaoMaoPrx/NetEase-Cloud-Music-Api)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoMaoPrx&theme=transparent)
+
+🚀I’m just an amateur programming enthusiast, still learning in various areas.
+
+⚡Please refrain from attacking my website. Let's maintain a respectful online environment. Thank you.
