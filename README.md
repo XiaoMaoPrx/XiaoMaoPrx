@@ -1,19 +1,23 @@
 # 👋Hi there
 ### Who am I
-I am XiaoMaoPrx , a programming amateur
+I am XiaoMaoR , a programming amateur
 ### My projects
 - **✈️XiaoMaoChat** - [Check it out](https://rlmk.cc) (❤️‍🩹Work in Progress)
+- **✈️SyForummmm** - [Check it out](https://fm.rlmk.cc)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoMaoR&repo=SyForummmm&theme=transparent)](https://github.com/XiaoMaoR/SyForummmm)
+
 - **👾XiaoMaoFarRemoteShell**
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoMaoPrx&repo=XiaoM-FRS&theme=transparent)](https://github.com/XiaoMaoPrx/XiaoM-FRS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoMaoR&repo=XiaoM-FRS&theme=transparent)](https://github.com/XiaoMaoR/XiaoM-FRS)
 
 - **☁️NetEaseCloudMusicApi**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoMaoPrx&repo=NetEase-Cloud-Music-Api&theme=transparent)](https://github.com/XiaoMaoPrx/NetEase-Cloud-Music-Api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoMaoR&repo=NetEase-Cloud-Music-Api&theme=transparent)](https://github.com/XiaoMaoR/NetEase-Cloud-Music-Api)
 
 ### Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoMaoPrx&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoMaoR&theme=transparent)
 
 🚀I’m just an amateur programming enthusiast, still learning in various areas.
 
