@@ -11,9 +11,9 @@ I am XiaoMaoR , a programming amateur
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoMaoR&repo=XiaoM-FRS&theme=transparent)](https://github.com/XiaoMaoR/XiaoM-FRS)
 
-- **☁️NetEaseCloudMusicApi**
+- **☁️NCMusic-Download**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoMaoR&repo=NetEase-Cloud-Music-Api&theme=transparent)](https://github.com/XiaoMaoR/NetEase-Cloud-Music-Api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XiaoMaoR&repo=NCMusic-Download&theme=transparent)](https://github.com/XiaoMaoR/NCMusic-Download)
 
 ### Languages
 
